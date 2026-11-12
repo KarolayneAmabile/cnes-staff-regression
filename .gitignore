@@ -1,0 +1,26 @@
+# Ambientes virtuais e caches
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Dados (o notebook consulta a base direto no BigQuery)
+*.csv
+*.parquet
+
+# Relatório (LaTeX/PDF)
+relatorio/
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# Slides e apresentação
+slides/
+*.pptx
+*.key
+*.pdf
+
+# Material teórico da disciplina
+material-teorico/

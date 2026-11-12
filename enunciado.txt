@@ -1,0 +1,20 @@
+Projeto 1 - Regressão
+▪Escolha um dataset para tarefa de regressão, particular do seu interesse ou publicamente disponível. Busque uma
+base que tenha ao menos 2 mil instâncias com atributos estruturados;
+▪Implemente os algoritmos de Regressão Linear (Ridge) e Gradient Descent. Tanto os módulos de treino como
+predição.
+▪Faça um estudo introdutório sobre a base de dados:
+▪ entenda o significado dos atributos (incluindo o alvo);
+▪ faça uma análise de correlação;
+▪ avalie o desbalanceamento;
+▪ aplique uma análise visual de clusterização usando T-SNE. Faça isso considerando uma figura sem rótulos e uma figura com rótulos.
+Faça algum esforço para explicar a clusterização e como isso vai influenciar o uso dos modelos.
+▪Avalie os dados com R2, MSE e Absolute Error
+▪Faça uma análise dos pesos de cada atributo.
+▪Faça uma análise de performance dos tipos de regressão.
+▪Mostre a variação dos parâmetros com Gradient Descent, e faça uma análise em função dos parâmetros escolhidos.
+Tem algum ponto que eles não se alteram mais?
+▪Deverá ser entregue:
+◦ um relatório com: introdução, descrição do projeto, resultados e análises.
+◦ Uma apresentação de dez minutos.
+◦ Divida a apresentação em 4 partes: Experiência, Tarefa, Desempenho e Análise.
